@@ -1,5 +1,5 @@
 Simple Undersampler for Python 2.7
-A simple program for undersampling assymetric data sets saved in CSV format
+- A simple program for undersampling assymetric data sets saved in CSV format
 
 The purpose of this program is to make quick undersampled data sets
 for training supervised classification models meant for classifying
